@@ -7,11 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app will be able to connect people with vehicle repair needs to mechanics that are willing to fix them. There will be two different types of user, the mechanic and the customer. The mechanic will be able to see what jobs have been posted by the customers and will be able to communicate with them about the repairs. The customers will be able to add jobs to a list and then communicate with the mechanics before agreeing to the work.
 ### Features
-Include Features here
+User Login
+Add/Remove Function
+Email/Message other Users
+In App Payment Option
 ### Technologies
-Include Technologies here
-
+C#
 ### What I'll Have to Learn
-Include what you will need to learn here
+Need to learn how to link APIs, accept in app payment, javascript for added style.
